@@ -1,0 +1,5 @@
+API:
+http://localhost:8080/demo/is_palindrome/kayak
+Result = true/false
+http://localhost:8080/demo/palindrome_counts
+Result - {"aba":3,"level":5}
